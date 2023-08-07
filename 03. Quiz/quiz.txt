@@ -1,0 +1,47 @@
+___________
+Question 1:
+
+In OOP what is the name of the blueprint for creating objects?
+
+	✖ Attribute
+	✖ Method
+	✔ Class
+	✖ Instance
+
+___________
+Question 2:
+
+Given a Class blueprint for a Car has the following attributes and methods, which line of code in the answers will produce an error?
+
+	Attributes:
+		num_of_seats
+		speed
+
+	Methods:
+		drive()
+		brake()
+
+	✖ car.drive()
+	✖ car.num_of_seats = 2
+	✔ car.brake() = 0
+	✖ print(car.speed)
+
+___________
+Question 3:
+
+Question 3:
+
+	my_toyota = Car()
+	my_fiat = Car()
+
+What word would you use to describe what's inside my_toyota and my_fiat?
+
+	✖ Class
+	✖ Attribute
+	✖ Variable
+	✔ Object
+	✖ Method
+
+________________________________________________________
+Great job! You are ready to move on to the next lecture.
+You got 3 out of 3 correct.
